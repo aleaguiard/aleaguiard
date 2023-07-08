@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Passionate student of mobile app development<br>📫 Reach me out on <a href="https://www.linkedin.com/aleaguiard" target="_blank">LinkedIn</a> or <a href="mailto:aleaguiard@hotmail.com">Email</a>
+😄  Passionate student of mobile app development<br>📫  Reach me out on <a href="https://www.linkedin.com/aleaguiard" target="_blank">LinkedIn</a> or <a href="mailto:aleaguiard@hotmail.com">Email</a>
 
 
 ## 🌐 Socials:
