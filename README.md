@@ -11,15 +11,17 @@
 
 #### 💻 Tech Stack:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="gitlab logo"  />
 </div>
