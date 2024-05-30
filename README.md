@@ -12,18 +12,11 @@
 #### 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="gitlab logo"  />
 </div>
