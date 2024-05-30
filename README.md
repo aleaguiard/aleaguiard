@@ -19,8 +19,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
