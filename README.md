@@ -25,5 +25,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="gitlab logo"  />
 </div>
