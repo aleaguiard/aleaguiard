@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
+
   
 </div>
