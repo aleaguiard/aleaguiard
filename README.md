@@ -13,7 +13,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="js logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
