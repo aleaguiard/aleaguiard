@@ -2,6 +2,9 @@
 😄  I'm a passionate software developer, always eager to learn and grow in the field! 
 <br>
 📫 You can reach out to me via <a href="https://www.linkedin.com/in/aleaguiard" target="_blank">LinkedIn</a> or drop me an <a href="mailto:aleaguiard@hotmail.com">Email</a>.
+<br>
+🔗 <a href="https://aleaguiard.github.io/minimal-profile" target="_blank">My minimal profile</a>
+
 
 #### 🌐 Socials:
 <div align="left">
