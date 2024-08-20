@@ -3,7 +3,11 @@
 <br>
 📫 You can reach out to me via <a href="https://www.linkedin.com/in/aleaguiard" target="_blank">LinkedIn</a> or drop me an <a href="mailto:aleaguiard@hotmail.com">Email</a>.
 <br>
-🔗 <a href="https://aleaguiard.github.io/" target="_blank">My minimal profile</a>
+<br>
+🔗 <a href="https://aleaguiard.vercel.app" target="_blank" >Website Portfolio</a>
+<br>
+<br>
+🔗 <a href="https://aleaguiard.github.io/" target="_blank" >My minimal profile</a>
 
 
 #### 🌐 Socials:
