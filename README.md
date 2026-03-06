@@ -19,6 +19,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
   <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="gcp logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
 </div>
