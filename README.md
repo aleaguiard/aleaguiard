@@ -2,7 +2,7 @@
 Software developer focused on building reliable and maintainable software.  
 Primarily working with TypeScript, Node.js and cloud-based architectures.
 
-🔗 <a href="https://aleaguiard.github.io/" target="_blank">Portfolio</a> ·
+🔗 <a href="https://aleaguiard.github.io/" target="_blank">Profile</a> ·
 <a href="mailto:aleaguiard@hotmail.com">Email</a> ·
 <a href="https://linkedin.com/in/aleaguiard">LinkedIn</a>
 
